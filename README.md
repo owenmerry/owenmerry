@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @owenmerry
 - 👀 I’m interested in ... Front-end
-- 🌱 I’m currently learning ... Nest
+- 🌱 I’m currently learning ... NestJs and Remix
 - 💞️ I’m looking to collaborate on ... fun mini apps
 - 📫 How to reach me ... my email
 
